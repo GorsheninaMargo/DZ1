@@ -42,3 +42,4 @@ scanf("%d", &x);
 ```
 }
 ```
+![2021-09-24 (1)](https://user-images.githubusercontent.com/91198767/134694671-69ae6fd8-64f9-45df-b57f-793798213d12.png)
